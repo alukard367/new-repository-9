@@ -1,0 +1,16 @@
+{
+  "name": "new-repository-9",
+  "version": "1.0.0",
+  "description": "this is just sample repository 9",
+  "main": "index.js",
+  "scripts": {
+    "deply": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://alukard367.github.io/new-repository-9",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
